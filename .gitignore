@@ -1,5 +1,6 @@
 /unencrypted
 *.txt
+*.scr
 
 # Valve related cfg files
 360controller-linux.cfg
